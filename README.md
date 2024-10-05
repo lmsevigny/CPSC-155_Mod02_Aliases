@@ -1,4 +1,4 @@
-# Ch2.7
+# Module 02
 # Exercise: Git Aliases
 
 ## Step 1

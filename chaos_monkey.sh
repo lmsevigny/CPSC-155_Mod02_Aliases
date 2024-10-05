@@ -1,4 +1,5 @@
 #!/bin/bash
+# chaos_monkey.sh
 
 git config alias.customlog1 "log --oneline --graph --all --pretty=format:'%C(yellow)%h%C(auto)%d%C(white) %s%C(green) (%cr) %C(bold blue)%an <%ae>%C(reset)'"
 
